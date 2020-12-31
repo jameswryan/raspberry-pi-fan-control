@@ -2,4 +2,4 @@ To install:
 	run 'make' to compile
 	use 'watch fan &' to run the program every 2 seconds in the background.
 
-	To run on startup, add 'watch <program_directory/fan &>' to rc.local
+	To run on startup, add 'watch <program_directory>/fan &' to rc.local
